@@ -1,0 +1,101 @@
+
+.main-box-div {
+    width: 750px;
+    height: 380px;
+    display: inline-block;
+    border: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.profile-div {
+    width: 200px;
+    height: 335px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+
+.profile-pic-div {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.name-div {
+    width: 200px;
+    height: 25px;
+    
+}
+
+.social-info-div {
+    width: 200px;
+    height: 35px;
+    
+   
+}
+
+
+   
+.add-friend-div {
+    width: 150px;
+    height: 40px;
+    
+}
+
+.profile-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.name {
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial;
+    
+}
+
+.friend-pic {
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    object-fit: cover;
+    margin-left: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.friends-info{
+    display: inline-block;
+    
+    vertical-align: middle;
+    font-size: 15px;
+    font-family: Arial;
+    color: rgb(100,100,100);
+    
+}
+
+.add-friend{
+    vertical-align: middle;
+    margin-top : 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+    background-color: rgb(31, 95, 226);
+    color: white;
+    font-family: Arial;
+    border: none;
+    border-radius: 3px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}

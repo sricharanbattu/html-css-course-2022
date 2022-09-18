@@ -1,0 +1,109 @@
+p{
+    font-family: Arial;
+}
+
+.email{
+    margin-top:0;
+    font-size: 15px;
+    margin-bottom:10px;
+    color: rgb(100,100,100);
+}
+
+.signinbar{
+    margin-top:0;
+    width: 400px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-width: 1px;
+    border-color: rgb(100,100,100);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border-style: solid;
+}
+
+.agreement{
+    margin-top: 0px;
+    color: rgb(100,100,100);
+    font-size: 15px; 
+    width: 400px;
+    margin-bottom: 20px;
+
+}
+
+.agree-button{
+    background-color: rgb(10 102 194);
+    border: none;
+    width: 400px;
+    color: white;
+    font-size : 20px;
+    align-content: center;
+    height: 50px;
+    border-radius: 25px;
+    cursor : pointer;
+    display: block;
+    margin-bottom: 200px;
+
+}
+
+.big1{
+    width: 1000px;
+    height: 130px;
+    border-style: solid;
+    border-width: 1px;
+    vertical-align: middle;
+}
+
+.col1{
+    width: 150px;
+    height: 150px;
+    
+}
+
+.cat{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.col2 {
+    width: 600px;
+    
+    
+    height: 150px;
+}
+
+.tweet-text {
+    font-size: 30px;
+    color: rgb(100,100,100);
+    vertical-align: middle;
+    
+}
+
+.col3{
+    width: 200px;
+    height: 150px;
+    
+    vertical-align: middle;
+}
+
+
+.tweet{
+    background-color: rgb(27 135 198);
+    color: white;
+    width: 200px;
+    height: 75px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    vertical-align: middle;
+    font-size: 30px;
+    border-radius: 50px;
+    
+}

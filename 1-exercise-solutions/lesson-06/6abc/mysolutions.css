@@ -1,0 +1,17 @@
+.line1{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 0;
+    text-align: center;
+    width: 220px;
+}
+
+.line2{
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.line3{
+    text-decoration: underline;
+}
